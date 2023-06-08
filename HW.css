@@ -1,0 +1,27 @@
+.cards-title .cards-description {
+	color: #babfd4;
+	text-align: center;
+}
+
+.card {
+	padding: 25px;
+	margin-top: 25px;
+	width: 25%;
+	text-align: center;
+	background: rgb(178, 195, 201);
+	box-shadow: 0px 2px 7px 0px #9e90ff;
+}
+
+.card-link {
+	text-decoration: none;
+	color: white;
+
+}
+
+.card-button{
+	text-align: center;
+	background: gray;
+	padding: 10px 70px;
+	border-radius: 10px;
+	cursor: pointer;
+}
