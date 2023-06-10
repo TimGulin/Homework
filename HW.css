@@ -4,7 +4,7 @@
 }
 
 .card {
-	padding: 25px;
+	padding: 50px;
 	margin-top: 25px;
 	width: 25%;
 	text-align: center;
@@ -21,7 +21,7 @@
 .card-button{
 	text-align: center;
 	background: gray;
-	padding: 10px 70px;
+	padding: 10px;
 	border-radius: 10px;
 	cursor: pointer;
 }
